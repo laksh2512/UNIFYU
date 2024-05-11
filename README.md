@@ -1,3 +1,8 @@
+UNIFYU is designed in such a way that it enhance user experience and provide valuable information related to hostel details, course details, website links, and more. It uses HTML,CSS,JS to ensure a seamless and interactive interface.
+
+
+OUTPUT IS ATTACHED HERE!
+
 ![image](https://github.com/laksh2512/UNIFYU/assets/115486495/68fb2c99-c5f1-4a4d-87b2-ebf559c220b3)
 
 ![image](https://github.com/laksh2512/UNIFYU/assets/115486495/bbdf6ade-2dd9-4011-9e46-0615a1fde5bd)
